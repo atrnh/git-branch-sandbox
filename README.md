@@ -1,2 +1,1 @@
-# git-branch-sandbox
-Stuff for a git branching workshop 🛠
+# 🏖 Git Branch Sandbox
